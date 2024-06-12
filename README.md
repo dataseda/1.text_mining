@@ -1,1 +1,3 @@
 # text_mining
+
+This notebook contains a textual analysis application of customer reviews collected via web scraping myself from the Tripadvisor website. It includes text preprocessing, determining the optimal number of LDA topics, LDA topic modeling, Word2Vec feature extraction, latent sentiment analysis, and performance evaluation. The latent sentiment analysis is lexicon-based and some neutral expressions that do not have a dictionary equivalent performed with the manual coding . It also includes a comparison of Word2Vec bag of words and normal word frequencies, as well as a bigram analysis.
