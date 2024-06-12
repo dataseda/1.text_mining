@@ -6,6 +6,3 @@ This notebook contains a textual analysis application of customer reviews collec
 
 ![image](https://github.com/dataseda/1.text_mining/assets/128044587/f93392c6-caa0-4033-b3c1-b42b06038aab)
 
-
-![image](https://github.com/dataseda/1.text_mining/assets/128044587/69590ac4-c967-4a08-9626-6d78f1c42382)
-
